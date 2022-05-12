@@ -1,0 +1,212 @@
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-color: #FFC3C3;
+
+}
+
+.hero {
+	
+}
+nav {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	min-height: 8vh;
+	background: #FFC3C3;
+}
+.logo h4 {
+	color: white;
+	font-size: 30px;
+
+}
+.tour_link {
+	background-image: url(toooour.png);
+}
+.tourlink p{
+	color: white;
+	font-size: 25px;
+	display: flex;
+	justify-content: center;
+	background-color: #FFDBDB;
+	border-style: solid;
+
+}
+.signuptour p{
+	color: white;
+	font-size: 35px;
+	display: flex;
+	justify-content: center;
+	background-color: #FFC3C3;
+	back
+	border-style: solid;
+ 	box-sizing: border-box;
+  	border-top: 10px solid white;
+ 	 border-left: 10px solid white;
+ 	 border-right: 10px solid white;
+ 	 border-bottom: 10px solid white;
+
+
+
+}
+
+
+}
+.logo {
+	border-radius: 25px;
+
+}
+.dojabio {
+	background: #FFC3C3;
+}
+h4 {
+	font-size: 25px;
+	color: white;
+
+
+}
+.doja_album p {
+	color: #FFC3C3;
+	font-size: 20px;
+	background-color: #FFFFFF;
+	padding: 10px 25px;
+	text-decoration: none;
+	border-radius: 25px;
+
+
+}
+.doja_album_picture {
+	display: flex;
+	justify-content: center;
+}
+
+
+h1 {
+	font-size: 100px;
+	display: flex;
+	justify-content: center;
+	background: #FFDBDB;
+	color: white;
+	border-style: solid;
+
+}
+
+.dojabiocenter {
+	display: flex;
+	justify-content: center;
+
+}
+.dojabiocenter img{
+	border-left: 20px solid white;
+	border-top: 20px solid #FFDBDB;
+	border-right: 20px solid white;
+	border-bottom: 20px solid #FFDBDB;
+	
+}
+
+.nav-links {
+	display: flex;
+	justify-content: space-around;
+	width: 35%;
+
+}
+.nav-links li{
+	list-style: none;
+}
+.nav-links a{
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 20px;
+}
+.moblie {
+	display: none;
+	cursor: pointer;
+}
+
+
+
+}
+
+
+body {
+  background: #FFC3C3;
+  font-family: 'Lato', sans-serif;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+
+form {
+  width: 450px;
+  margin: 17% auto;
+}
+
+
+.header {
+  font-size: 35px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+.header p{
+	color: white;
+}
+
+
+.description {
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 1.3em;
+  margin: -2px 0 45px;
+  color: white;
+}
+
+
+.input {
+  display: flex;
+  align-items: center;
+}
+
+
+.button {
+  height: 44px;
+  border: none;
+}
+
+  
+#email {
+  width: 75%;
+  background: #FDFCFB;
+  font-family: inherit;
+  color: #737373;
+  letter-spacing: 1px;
+  text-indent: 5%;
+  border-radius: 5px 0 0 5px;
+}
+
+
+#submit {
+  width: 25%;
+  height: 46px;
+  background: #FFDBDB;
+  font-family: inherit;
+  font-weight: bold;
+  color: inherit;
+  letter-spacing: 1px;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+  transition: background .3s ease-in-out;
+  color: white;
+}
+  
+
+#submit:hover {
+  background: #d45d7d;
+}
+  
+
+input:focus {
+  outline: none;
+  outline: 2px solid #E86C8D;
+  box-shadow: 0 0 2px #E86C8D;
+}
